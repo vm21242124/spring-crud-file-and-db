@@ -112,16 +112,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or issues, please contact [Your Name] at [Your Email Address].
+For any questions or issues, please contact vinod mali at vinodrmali01@gmail.com .
 
 ```
 
-### Summary
-
-- **Pull** the Docker image from Docker Hub.
-- **Run** the Docker container with environment variables.
-- **Use Docker Compose** for running both the Spring Boot application and MySQL.
-- **Stop and Remove** containers as needed.
-- **Access** the application at `http://localhost:8080`.
-
-Replace placeholders like `[Your Name]` and `[Your Email Address]` with your actual contact details. This `README.md` provides clear instructions for users to pull and run your Docker image effectively.
